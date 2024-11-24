@@ -59,8 +59,7 @@ $ npm run test:cov
 ```
 
 ## Docker Up
-# Run this command to start the mongodb and server app on 2 containers on the same network
-# docker-compose up --build
+docker-compose up --build
 
 
 
