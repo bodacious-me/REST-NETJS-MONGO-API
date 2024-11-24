@@ -58,9 +58,9 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Docker Up
-docker-compose up --build
-
+## Docker
+# Run Using Docker
+$ docker-compose up --build
 
 
 ## Deployment
